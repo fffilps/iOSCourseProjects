@@ -3,7 +3,7 @@
 //  BMI Calculator
 //
 //  Created by Jmari Wyatt on 5/26/20.
-//  Copyright © 2020 Angela Yu. All rights reserved.
+//  Copyright © 2020 J'mariko Consulting. All rights reserved.
 //
 
 import UIKit
