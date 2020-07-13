@@ -1,12 +1,12 @@
 #  BMI Calculator
 
-## Our Goal
+## The Goal
 
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
+The goal of this this project was to learn more about Optionals, solidify my  understanding of the MVC design pattern and to begin using the concept of Classes. I practiced using objects created from classes with instances of Structs.
 
-## What you will create
+## What I Created
 
-Made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
+Made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on your input.
 
 ## What skills I learned
 
