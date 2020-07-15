@@ -2,8 +2,8 @@
 //  WeatherModel.swift
 //  Clima
 //
-//  Created by Spliff Watson on 7/4/2 R.
-//  Copyright © 2 Reiwa App Brewery. All rights reserved.
+//  Created by J'mari Wyatt on 7/4/2 R.
+//  Copyright © 2 Reiwa J'mariko Consulting. All rights reserved.
 //
 
 import Foundation
