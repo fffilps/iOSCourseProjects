@@ -20,3 +20,4 @@ I created a Las Vegas dice app. I made the die roll at the press of a button or 
 * Understand and use collection types such as Swift arrays.
 * How to test and debug my app with the Xcode console.
 * Learn about randomisation and how to generate random numbers in Swift.
+
