@@ -3,7 +3,7 @@
 //  Quizzler-iOS13
 //
 //  Created by Jmari Wyatt on 5/21/20.
-//  Copyright © 2020 The App Brewery. All rights reserved.
+//  Copyright © 2020 J'mariko Consulting. All rights reserved.
 //
 
 import Foundation
