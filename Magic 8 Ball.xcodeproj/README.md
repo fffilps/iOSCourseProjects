@@ -1,4 +1,18 @@
-Magic 8 Ball App - iOS13
-----------
+# Magic 8 Ball
 
-This app is a magic 8 ball simulator. It shows the skills I have to access an array of options and pick a random choice from it. Every time you use it, the answer is randomly generated. It also programmatically changes the image you see for the 8 ball, giving you the answer you may ask. 
+## My Goal
+
+The objective of this app is to apply the skills I learned in the Dicee app and get myself used to making simple apps. This app is to exercise my muscle memory with app developing foundational concepts.
+
+## What I Created
+
+I created the Magic 8 Ball Simulator app. You can ask the app to make all your hard decisions, like you would a real 8 ball. It also has pictures and animation changes like a real 8 ball.
+
+## What Skills I Exercised 
+
+* Created an app with behaviour and functionality.
+* Created links between the Interface Builder files and code using IBActions and IBOutlets.
+* Use of Swift constants and variables.
+* Usage of Arrays and accessing the data inside of them.
+* Randomisation in Swift.
+* Programmatically changed images on the UI.
