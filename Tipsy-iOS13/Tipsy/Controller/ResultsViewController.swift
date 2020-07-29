@@ -3,7 +3,7 @@
 //  Tipsy
 //
 //  Created by Jmari Wyatt on 6/4/20.
-//  Copyright © 2020 The App Brewery. All rights reserved.
+//  Copyright © 2020 J'mariko Consulting. All rights reserved.
 //
 
 import UIKit
