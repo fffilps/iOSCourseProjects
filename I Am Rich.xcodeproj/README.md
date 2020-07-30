@@ -1,6 +1,6 @@
 # I Am Rich App 
 
-![I Am Rich Demo](/I Am Rich.xcodeproj/Documentation/IAmRich.png)
+![I Am Rich Demo](/I%20Am%20Rich.xcodeproj/Documentation/IAmRich.png)
 
 ## My Goal
 
