@@ -1,6 +1,6 @@
 # Destini
 
-![Destini Gif](/Documentation/Destineegif.gif)
+![Destini Gif](/documentation/destineegif.gif)
 
 ## My Goal
 
