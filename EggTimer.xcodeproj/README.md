@@ -1,4 +1,20 @@
-EggTimer iOS13
--------
+# Egg Timer
 
-An app that could help you boil eggs to the perfect condition of your choice (soft, medium, or hard). This app shows the skills of using progress bars and it filling according to length. Also shows how the user choices give different times to boil you egg. Also has an audio playback when the timer is up.
+![EggTimer Demo](/EggTimer.xcodeproj/EggTimer/Documentation/EggTimer.mov)
+
+## My Goal
+
+To get comfortable with looking up how to do something I've never done before using Google search, StackOverflow and Apple Documentation to make the code do what I want it to. I also wanted to learn some new Swift programming concepts. 
+
+## What I Made
+
+I built a beautiful egg timer app to boil eggs to perfection depending on how you prefer your eggs (Soft, Medium, or Hard). (This app doesnt use actual boiling time as its a demostration of skill)
+
+## What Skills I Learned
+
+* Swift Collection types - Dictionaries
+* The Swift Timer API
+* Conditional statements - IF/ELSE
+* Conditional statements - Switch
+* Functions with outputs
+* How to use the ProgressView
