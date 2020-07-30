@@ -1,5 +1,7 @@
 # Destini
 
+![Destini Demo](/Destini-iOS13.xcodeproj/Documentation/Destini.mov)
+
 
 ## My Goal
 
