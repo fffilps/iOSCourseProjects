@@ -1,5 +1,7 @@
 # Dicee
 
+![Dicee Demo](/Dicee-iOS13.xcodeproj/Documentation/Dicee.mov)
+
 ## My Goal Goal
 
 The objective of this app was to introduce me to the core programming concepts that will form the foundation of most of the apps. 
