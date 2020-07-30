@@ -1,5 +1,7 @@
 # Magic 8 Ball
 
+![Magic 8 Ball Demo](/Magic%208%20Ball.xcodeproj/Documentation/Magic8Ball.mov)
+
 ## My Goal
 
 The objective of this app is to apply the skills I learned in the Dicee app and get myself used to making simple apps. This app is to exercise my muscle memory with app developing foundational concepts.
