@@ -1,6 +1,8 @@
 
 # Xylophone
 
+![Xylophone Demo](/Xylophone.xcodeproj/Documentation/Xylophone.mov)
+
 ## My Goal
 
 The goal was to learn how to play sound on a app and use an Apple library called AVFoundation for future projects.
