@@ -1,6 +1,8 @@
 
 # Tipsy
 
+![Tipsy Demo](/Tipsy-iOS13/Documentation/Tipsy.mov)
+
 ## My Goal
 
 The Goal of this app was to get more practice using segue transitions and taking user input for calculated output.
