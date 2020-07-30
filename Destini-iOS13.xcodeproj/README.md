@@ -1,5 +1,7 @@
 # Destini
 
+![Destini Gif](/Documentation/Destineegif.gif)
+
 ## My Goal
 
 The goal of this challenge is to get you comfortable with implementing the MVC design pattern and thinking about the state of my app. 
