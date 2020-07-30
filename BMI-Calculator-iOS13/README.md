@@ -1,5 +1,7 @@
 #  BMI Calculator
 
+![Healthy BMI](/BMI-Calculator-iOS13/Documentation/BMI.mov)
+
 ## The Goal
 
 The goal of this this project was to learn more about Optionals, solidify my  understanding of the MVC design pattern and to begin using the concept of Classes. I practiced using objects created from classes with instances of Structs.
