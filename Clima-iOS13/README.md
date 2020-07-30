@@ -1,6 +1,8 @@
 
 #  Clima
 
+![Clima Weather](/Clima-iOS13/Documentation/Clima.mov)
+
 ## The Goal
 
 The goal was to begin learning the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. I also wanted to practice using iOS features such as dark mode, UITextField for user input, and URLSession.
