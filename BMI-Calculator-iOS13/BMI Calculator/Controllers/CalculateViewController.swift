@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  CalculateViewController.swift
 //  BMI Calculator
 //
 //  Created by J'mari Wyatt on 21/08/2019.
@@ -26,13 +26,13 @@ class CalculateViewController: UIViewController {
 
     @IBAction func heightSliderChange(_ sender: UISlider) {
 
-        heightLabel.text = String(format: "%.2f", sender.value) + "m"
+        heightLabel.text = String(format: "%.2f", sender.value) + "in"
     }
     
     @IBAction func weightSliderChange(_ sender: UISlider) {
        
         let weight = String(format: "%.0f", sender.value)
-        weightLabel.text = "\(weight)Kg"
+        weightLabel.text = "\(weight)Lbs"
     }
     
     @IBAction func calculatePressed(_ sender: UIButton) {
