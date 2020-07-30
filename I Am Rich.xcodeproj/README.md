@@ -1,4 +1,19 @@
-I Am Rich App 
-------------
+# I Am Rich App 
 
-This app is a very basic app. Its a mock up of an app that once existed in the app store for wayyyyyyyy more than it was worth. Honestly not a bad idea to flex on people lol. A waste of money or a way to help a developer out. hahaa. 
+![I Am Rich Demo](/I Am Rich.xcodeproj/Documentation/IAmRich.png)
+
+## My Goal
+
+The goal of this app was to just make an app with Xcode as practice to learn Xcode.
+
+## What I Created
+
+I created a very simple and basic app that just shows an image and text with attributes.
+
+## What Skills I Learned
+
+* How to navigate Xcode.
+* How to add UIImages and UIText.
+* How to change attributes to text and images.
+* What is Storyboard and how to navigate it.
+* How to upload and use Assets in Xcode.
