@@ -1,5 +1,7 @@
 #  ByteCoin
 
+![BitCoin Prices](/ByteCoin-iOS13/Documentation/ByteCoin.mov)
+
 ## The Goal
 
 The goal of this this project was to practice with a different APIs to solidify my  understanding of API usage and rules. Another goal was to get used to setting up the URL sessions and interactions between my app and the internet.
