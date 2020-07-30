@@ -1,5 +1,7 @@
 # Quizzler
 
+![Quizzler Demo](/Quizzler-iOS13.xcodeproj/Documentation/Quizzler.mov)
+
 ## Our Goal
 
 The goal of this app was to take myself one step further in my journey of becoming an app developer. I wanted to implement the holy grail of mobile design patterns: the Model View Controller (MVC) pattern. I wanted to also practice checking user selections for correct or incorrect answers
