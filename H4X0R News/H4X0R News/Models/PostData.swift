@@ -2,8 +2,8 @@
 //  PostData.swift
 //  H4X0R News
 //
-//  Created by Spliff Watson on 8/10/2 R.
-//  Copyright © 2 Reiwa J'mari Wyatt. All rights reserved.
+//  Created by J'mari Wyatt on 8/10/2 R.
+//  Copyright © 2 Reiwa J'mariko Consulting. All rights reserved.
 //
 
 import Foundation
