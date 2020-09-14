@@ -1,4 +1,3 @@
-#H4X0R News App
 
 ## The Goal
 
